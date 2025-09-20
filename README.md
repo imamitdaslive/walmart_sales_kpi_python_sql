@@ -1,10 +1,6 @@
 # 🧾 Walmart Sales Key Performance Indicator - Python+Sql
 
 ![Project Workflow](images/walmart_project_workflow.png)
-<<<<<<< HEAD
-=======
-
->>>>>>> f98623d0d09fc6c0667805082132f0bbeac13ef9
 
 
 _An end-to-end **Walmart sales analysis project** using **Python (Pandas, SQLAlchemy)** and **SQL (PostgreSQL)**.  
