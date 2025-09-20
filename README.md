@@ -67,8 +67,11 @@ Walmart Sales Kpi Python Sql/
 │
 ├── kpi_walmart_psql.sql/ # SQL queries for analysis
 │ 
-├── src/ # Python code in jupyter nootebook 
-│ └── project_walmart_python.ipynb
+├── src 
+│ └── project_walmart_python.ipynb/ # Python code in jupyter nootebook
+│ └──kpi_walmart_psql.sql/ # SQL queries for analysis
+│
+│
 ├── images
 │ └── walmart_project_workflow.png
 │
@@ -85,6 +88,7 @@ Walmart Sales Kpi Python Sql/
 │
 └── README.md # Project overview
 ```
+
 
 ---
 <h2><a class="anchor" id="steps"></a>Steps</h2>
