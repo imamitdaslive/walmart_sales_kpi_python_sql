@@ -58,14 +58,12 @@ This project applies **Python and SQL** to extract, clean, and analyze sales dat
 ---
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-
 ```
 Walmart Sales Kpi Python Sql/
 │
 ├── cleaned_data/ #  clean dataset
 │ └── Store_cleaned_data.csv
 │
-├── kpi_walmart_psql.sql/ # SQL queries for analysis
 │ 
 ├── src 
 │ └── project_walmart_python.ipynb/ # Python code in jupyter nootebook
@@ -88,7 +86,6 @@ Walmart Sales Kpi Python Sql/
 │
 └── README.md # Project overview
 ```
-
 
 ---
 <h2><a class="anchor" id="steps"></a>Steps</h2>
