@@ -174,9 +174,8 @@ Walmart Sales Kpi Python Sql/
 * **Kaggle API Key**  
 ---
 
-<h2><a class="anchor" id="results--insights"></a>Results & Insights</h2>
+<h2><a class="anchor" id="results--insights"></a>📊Results & Insights</h2>
 
-## 📊 Results & Insights
 
 * **Revenue Insights**  
   - Branches with the highest revenue.  
@@ -195,9 +194,8 @@ Walmart Sales Kpi Python Sql/
   - Helped identify areas for **cost optimization** and **revenue growth**.  
 
 ---
-<h2><a class="anchor" id="future-scope"></a>Future Scope</h2>
+<h2><a class="anchor" id="future-scope"></a>🔮Future Scope</h2>
 
-## 🔮 Future Scope
 
 * Add **real-time streaming data pipelines**.  
 * Implement **predictive analytics (ML models)** for forecasting demand.  
