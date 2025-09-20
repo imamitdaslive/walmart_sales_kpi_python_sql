@@ -58,6 +58,7 @@ This project applies **Python and SQL** to extract, clean, and analyze sales dat
 ---
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
 ```
 Walmart Sales Kpi Python Sql/
 │
