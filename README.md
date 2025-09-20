@@ -1,4 +1,3 @@
-# walmart_sales_kpi_python_sql[README.md](https://github.com/user-attachments/files/22438598/README.md)
 # 🧾 Walmart Sales Key Performance Indicator - Python+Sql
 
 ![Project Pipeline](https://github.com/iamitdaslive/walmart_sales_kpi_python_sql/blob/main/images/walmart_project_workflow.png)
