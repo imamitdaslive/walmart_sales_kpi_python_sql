@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/22438757/README.md)
 # 🧾 Walmart Sales Key Performance Indicator - Python+Sql
 
 ![Project Pipeline](https://github.com/iamitdaslive/walmart_sales_kpi_python_sql/blob/main/images/walmart_project_workflow.png)
@@ -62,24 +63,24 @@ This project applies **Python and SQL** to extract, clean, and analyze sales dat
 ```
 Walmart Sales Kpi Python Sql/
 │
-├── cleaned data/ #  clean dataset
+├── cleaned_data/ #  clean dataset
 │ └── Store_cleaned_data.csv
 │
 ├── kpi_walmart_psql.sql/ # SQL queries for analysis
 │ 
-├── project_walmart_python.ipynb/ # Python code in jupyter nootebook 
-│
+├── src/ # Python code in jupyter nootebook 
+│ └── project_walmart_python.ipynb
 ├── images
 │ └── walmart_project_workflow.png
 │
-├── raw datasets
+├── raw_datasets
 │ └── Walmart.csv
 │
 ├── reports/ # Business Q&A Report
-│ └── Report Walmart Key Perfomance Indicator.pdf
+│ └── report_walmart_kpi.pdf
 │
 │
-├── Document Business Problems.pdf
+├── document_business_problems.pdf
 │
 ├── requirements.text
 │
